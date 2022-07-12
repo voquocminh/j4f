@@ -1,0 +1,23 @@
+{
+  "name": "j4f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voquocminh/j4f.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voquocminh/j4f/issues"
+  },
+  "homepage": "https://github.com/voquocminh/j4f#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
